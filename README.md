@@ -95,19 +95,6 @@ No se trata solamente de acumular tecnologías, sino de entenderlas y saber util
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img width="49%" src="https://ghstats.dev/api/card?username=evaristoboquet&theme=tokyonight" alt="GitHub Stats" />
-  <img width="49%" src="https://ghstats.dev/api/langs?username=evaristoboquet&theme=tokyonight&layout=donut" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img width="75%" src="https://ghstats.dev/api/sparkline?username=evaristoboquet&days=30&width=700" alt="GitHub Activity" />
-</p>
-
----
-
 ## 🧪 What am I building?
 
 Me interesan especialmente los proyectos que combinan software, tecnología y soluciones para problemas cotidianos.
